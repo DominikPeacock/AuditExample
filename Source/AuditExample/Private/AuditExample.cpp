@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright Dominik Peacock. All Rights Reserved.
 
 #include "AuditExample.h"
 #include "Modules/ModuleManager.h"
