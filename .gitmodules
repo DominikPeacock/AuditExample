@@ -1,0 +1,3 @@
+[submodule "Plugins/AuditAutomation"]
+	path = Plugins/AuditAutomation
+	url = git@github.com:DominikPeacock/AuditAutomation.git
